@@ -1,6 +1,6 @@
-#Napisz program, który wyświetla na ekranie komputera wartość predefiniowanej stałej π = 3,14… Należy
-#przyjąć format prezentowania tej stałej, oznaczanej w języku C++ jako M_PI, z dokładnością pięciu miejsc po
-#kropce.
+//Napisz program, który wyświetla na ekranie komputera wartość predefiniowanej stałej π = 3,14… Należy
+//przyjąć format prezentowania tej stałej, oznaczanej w języku C++ jako M_PI, z dokładnością pięciu miejsc po
+//kropce.
 
 #define _USE_MATH_DEFINES
 #include <iostream>
