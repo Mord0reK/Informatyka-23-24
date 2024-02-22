@@ -1,4 +1,4 @@
-#Napisz program, który oblicza resztę z dzielenia całkowitego dla dwóch liczb całkowitych a = 37 i b = 11.
+//Napisz program, który oblicza resztę z dzielenia całkowitego dla dwóch liczb całkowitych a = 37 i b = 11.
 
 #define _USE_MATH_DEFINES
 #include <iostream>
