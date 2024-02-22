@@ -1,6 +1,6 @@
-#Napisz program, który oblicza pole prostokąta. Wartości boków a i b wprowadzamy z klawiatury. W
-#programie należy przyjąć, że zmienne a i b oraz pole są typu double (rzeczywistego). Przyjmujemy format
-#wyświetlania ich na ekranie z dokładnością dwóch miejsc po kropce.
+//Napisz program, który oblicza pole prostokąta. Wartości boków a i b wprowadzamy z klawiatury. W
+//programie należy przyjąć, że zmienne a i b oraz pole są typu double (rzeczywistego). Przyjmujemy format
+//wyświetlania ich na ekranie z dokładnością dwóch miejsc po kropce.
 
 #include <iostream>
 #include <iomanip>
