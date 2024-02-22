@@ -1,7 +1,7 @@
-#Napisz program, który oblicza sumę, różnicę, iloczyn i iloraz dla dwóch liczb x i y wprowadzanych z
-#klawiatury. W programie przyjmujemy, że liczby x i y są typu double (rzeczywistego).
-#Dla zmiennych x, y, suma, roznica, iloczyn i iloraz należy przyjąć format wyświetlania ich na
-#ekranie z dokładnością dwóch miejsc po kropce.
+//Napisz program, który oblicza sumę, różnicę, iloczyn i iloraz dla dwóch liczb x i y wprowadzanych z
+//lawiatury. W programie przyjmujemy, że liczby x i y są typu double (rzeczywistego).
+//Dla zmiennych x, y, suma, roznica, iloczyn i iloraz należy przyjąć format wyświetlania ich na
+//ekranie z dokładnością dwóch miejsc po kropce.
 
 #define _USE_MATH_DEFINES
 #include <iostream>
