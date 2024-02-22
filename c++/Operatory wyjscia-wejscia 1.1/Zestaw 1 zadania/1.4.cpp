@@ -1,4 +1,9 @@
-﻿#define _USE_MATH_DEFINES
+#Napisz program, który oblicza objętość kuli o promieniu r.
+#Wartość promienia wprowadzamy z klawiatury. W programie należy przyjąć, że r jest typu double
+#(rzeczywistego). Dla zmiennych r oraz objetosc należy przyjąć format wyświetlania ich na ekranie z
+#dokładnością dwóch miejsc po kropce.
+
+#define _USE_MATH_DEFINES
 #include <iostream>
 #include <iomanip>
 #include <math.h>
