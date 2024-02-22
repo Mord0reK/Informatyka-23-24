@@ -1,4 +1,6 @@
-﻿#define _USE_MATH_DEFINES
+#Napisz program, który oblicza resztę z dzielenia całkowitego dla dwóch liczb całkowitych a = 37 i b = 11.
+
+#define _USE_MATH_DEFINES
 #include <iostream>
 #include <iomanip>
 #include <math.h>
