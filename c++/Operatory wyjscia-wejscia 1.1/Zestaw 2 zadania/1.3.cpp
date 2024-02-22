@@ -1,4 +1,9 @@
-﻿#define _USE_MATH_DEFINES
+//Napisz program, który:
+//a. Pobiera dwie liczby całkowite L1 i L2
+//b. W kolejnych wierszach wyświetla ich sumę oraz iloczyn
+//c. W kolejnym wierszu czeka na wprowadzenie dowolnego znaku
+
+#define _USE_MATH_DEFINES
 #include <iostream>
 #include <iomanip>
 #include <math.h>
