@@ -1,7 +1,7 @@
-//Napisz program, ktÛry:
-//a.wypisuje liczbÍ ca≥kowitπ wylosowanπ z przedzia≥u od 0 do 499 (w≥πcznie)
-//b.wypisuje liczbÍ ca≥kowitπ wylosowanπ z przedzia≥u od - 100 do 100 (w≥πcznie)
-//Liczby powinny siÍ zmieniaÊ przy kolejnym uruchomieniu programu.
+//Napisz program, kt√≥ry:
+//a.wypisuje liczbƒô ca≈Çkowit≈° wylosowan≈° z przedzia≈Çu od 0 do 499 (w≈Ç≈°cznie)
+//b.wypisuje liczbƒô ca≈Çkowit≈° wylosowan≈° z przedzia≈Çu od - 100 do 100 (w≈Ç≈°cznie)
+//Liczby powinny siƒô zmieniaƒá przy kolejnym uruchomieniu programu.
 
 #include <iostream>
 #include <cstdlib>
@@ -13,7 +13,7 @@ int main() {
 	srand(time(NULL)); // funkcja by byly inne liczby bo resecie programu
 	int liczba_a = rand() % 500;
 	cout << "Wylosowana liczba z przedzialu 0-499: " << liczba_a << endl;
-	int liczba_b = (rand() % 100) - 100;
+	int liczba_b = (rand() % 200) - 100;
 	cout << "Wylosowana liczba z przedzialu -100-100: " << liczba_b << endl;
 	return 0;
 }
