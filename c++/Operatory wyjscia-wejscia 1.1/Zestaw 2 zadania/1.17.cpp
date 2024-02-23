@@ -1,16 +1,17 @@
-//Napisz program, który:
+//Napisz program, ktÃ³ry:
 //a. pobiera liczby rzeczywiste x i y
-//b. wypisuje œredni¹ arytmetyczn¹ x i y
-//c. pobiera liczby ca³kowite u i v
-//d. wypisuje œredni¹ arytmetyczn¹ u i v.
-//W programie umieœæ dowolne komentarze.
+//b. wypisuje Å›redniÄ… arytmetycznÄ… x i y
+//c. pobiera liczby caÅ‚kowite u i v
+//d. wypisuje Å›redniÄ… arytmetycznÄ… u i v.
+//W programie umieÅ›Ä‡ dowolne komentarze.
 
 #include <iostream>
 
 using namespace std;
 
 int main() {
-	double x, y, u, v;
+	double x, y;
+	int u, v;
 	cin >> x >> y;
 	cout << (x + y) / 2 << endl;
 	cin >> u >> v;
