@@ -10,7 +10,7 @@ Kazdy sprawdzian na godzinę 5 zadan jeden obowiązkowy lub dwa z algorytmow, 2 
 # 05.03.2024  (5 marca Wtorek) 
 Liczby pierwsze i złożone, z zadań operacje wyjscia wejscia, instrukcje warunkowe (c++ i python)
 # 29.03.2024 (29 marca Piątek)
-Sito Erastotenesa i wszystko co wczesniej, z zadań 1.1 do 1.3
+Sito Erastotenesa (Pierwsze 4 pdfy) i wszystko co wczesniej, z zadań 1.1 do 1.3
 # 19.04.2024 (19 kwietnia Piątek)
 Liczby + sito + dzialania w systemach innych niz dziesietny, z zadan 1.1 do 1.4
 # 24.05.2024 (24 maja Piatek) 
