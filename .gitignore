@@ -1,0 +1,14 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Informatyka/FileContentIndex
+/.vs/Informatyka/v17/.wsuo
+/.vs/Informatyka/v17/Browse.VC.db
+/.vs/Informatyka/v17/Browse.VC.db-shm
+/.vs/Informatyka/v17/Browse.VC.db-wal
+/.vs/Informatyka/v17/Browse.VC.opendb
+/.vs/Informatyka/v17/DocumentLayout.json
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
