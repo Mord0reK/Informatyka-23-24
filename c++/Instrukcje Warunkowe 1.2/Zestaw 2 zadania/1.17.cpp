@@ -11,7 +11,7 @@ using namespace std;
 
 int main()
 {
-    int L, x, wynik;
+    int L, x;
     cin >> L;
     for (x = -100; x <= 100; x++)
     {
