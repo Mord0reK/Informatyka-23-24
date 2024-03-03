@@ -13,7 +13,7 @@ using namespace std;
 
 int main()
 {
-    cout << "START" << endl;
+    cout << "START ";
     getch();
 }
 
