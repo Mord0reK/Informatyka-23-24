@@ -1,5 +1,5 @@
-//Napisz program, który za pomoc¹ instrukcji for dla danych wartoœci x zmieniaj¹cych siê od 0 do 10 oblicza 
-//wartoœæ funkcji y = 3x.
+//Napisz program, ktÃ³ry za pomocÄ… instrukcji for dla danych wartoÅ›ci x zmieniajÄ…cych siÄ™ od 0 do 10 oblicza 
+//wartoÅ›Ä‡ funkcji y = 3x.
 
 #include <iostream>
 
@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-	int x, i;
+	int i;
 	for (i = 0; i <= 10; i++)
 	{
 		cout << 3 * i << endl;
