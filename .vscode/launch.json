@@ -4,7 +4,21 @@
     // Aby uzyskać więcej informacji, odwiedź stronę: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "cmake",
+            "request": "launch",
+            "name": "Cmake: Uruchomione zewnętrznie",
+            "cmakeDebugType": "external",
+            "pipeName": "<...>"
+        },
+        {
+            "type": "cmake",
+            "request": "launch",
+            "name": "Cmake: Debugowanie skryptów",
+            "cmakeDebugType": "script",
+            "scriptPath": "${workspaceFolder}/<...>.cmake"
+        },
+
         {
             "type": "cmake",
             "request": "launch",
