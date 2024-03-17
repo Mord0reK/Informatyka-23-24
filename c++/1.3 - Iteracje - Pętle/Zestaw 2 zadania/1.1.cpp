@@ -6,3 +6,17 @@
 //od 100 (skok do punktu d). 
 //Zastosuj pętlę while.
 
+#include <iostream>
+
+using namespace std;
+
+int main() {
+  float a,b,sum;
+  cin >> a >> b;
+  sum = a+b;
+  while (sum <= 100) {
+    cin >> a;
+    sum += a;
+  }
+  return 0;
+}
