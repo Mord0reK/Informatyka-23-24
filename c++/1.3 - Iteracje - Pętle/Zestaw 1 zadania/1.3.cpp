@@ -1,5 +1,5 @@
-// Napisz program, który za pomoc¹ instrukcji while dla danych wartoœci x zmieniaj¹cych siê od 0 do 10
-// oblicza wartoœæ funkcji y = 3x.
+// Napisz program, ktï¿½ry za pomocï¿½ instrukcji while dla danych wartoï¿½ci x zmieniajï¿½cych siï¿½ od 0 do 10
+// oblicza wartoï¿½ï¿½ funkcji y = 3x.
 
 #include <iostream>
 
@@ -7,10 +7,10 @@ using namespace std;
 
 int main() {
     int x = 0;
-    do 
+    while (x <= 10)
     {
         cout << 3 * x << " ";
         x++;
-    } while (x <= 10);
+    }
     return 0;
 }
