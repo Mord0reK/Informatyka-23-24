@@ -10,10 +10,19 @@ using namespace std;
 int main()
 {
     double n, silnia = 1, i;
+    bool er = true;
     cin >> n;
-    for (i = 1; i <= n; i++)
+    if (n == 0)
     {
-        silnia *= i;
+        cout << "blad" << endl;
+        er = false;
+    }
+    if (er)
+    {
+        for (i = 1; i <= n; i++)
+        {
+            silnia *= i;
+        }
     }
     cout << silnia << endl;
     return 0;
