@@ -9,22 +9,23 @@ using namespace std;
 
 int main()
 {
-    double n, silnia = 1, i;
-    bool er = true;
+    double n, silnia = 0, i;
     cin >> n;
-    if (n == 0)
+    if (n < 0)
     {
         cout << "blad" << endl;
-        er = false;
+        return 0;
     }
-    if (er)
+    if (n == 0)
     {
-        for (i = 1; i <= n; i++)
-        {
-            silnia *= i;
-        }
+        cout << 1 << endl;
+        return 0;
+    }
+    silnia = 1;
+    for (i = 1; i <= n; i++)
+    {
+        silnia *= i;
     }
     cout << silnia << endl;
     return 0;
 }
-
