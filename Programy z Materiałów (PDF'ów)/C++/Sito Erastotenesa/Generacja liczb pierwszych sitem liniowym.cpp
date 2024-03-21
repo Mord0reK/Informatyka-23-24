@@ -5,10 +5,10 @@ using namespace std;
 int main()
 {
      unsigned int i,n,p,q,x;
-     bool * S;
+     bool * S; // Lista dynamiczna 
      cin >> n;
-     S = new bool[n + 1];
-     for(i = 2; i <= n; i++) S[i] = true;
+     S = new bool[n + 1]; // Wypełnienie listy danymi Bool (true,false) 
+     for(i = 2; i <= n; i++) S[i] = true; // Ustawianie każdego elementu w liscie na wartość True
      p = 2;
      while(p * p <= n)
      {
@@ -25,8 +25,8 @@ int main()
        }
       while(!S[++p]);
      }
-     for(i = 2; i <= n; i++) if(S[i]) cout << i << " ";
+     for(i = 2; i <= n; i++) if(S[i]) cout << i << " "; // Wypisywanie liczb pierwszych
      cout << endl;
-     delete [] S;
+     delete [] S; // Usuwanie listy z pamięci komputera
      return 0;
 }
