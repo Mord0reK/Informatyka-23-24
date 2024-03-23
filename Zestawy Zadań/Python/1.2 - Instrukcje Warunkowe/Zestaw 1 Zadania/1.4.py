@@ -13,4 +13,3 @@ if a != 0:  # Sprawdzenie, czy dzielnik nie jest równy zero
   print(f"Wartość x: {x:.2f}")
 else:
   print("Nie można dzielić przez zero!")
-

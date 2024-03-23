@@ -1,3 +1,5 @@
+
+
 L = int(input("Podaj liczbę L: "))
 
 for x in range(-100, 101):

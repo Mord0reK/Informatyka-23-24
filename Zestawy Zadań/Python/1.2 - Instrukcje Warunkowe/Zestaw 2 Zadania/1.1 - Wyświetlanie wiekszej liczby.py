@@ -1,3 +1,7 @@
+# Napisz program, który:
+# a. Pobiera dwie liczby całkowite
+# b. Wypisuje większą z liczb
+
 # Pobranie dwóch liczb od użytkownika
 a = int(input("Podaj pierwszą liczbę: "))
 b = int(input("Podaj drugą liczbę: "))
