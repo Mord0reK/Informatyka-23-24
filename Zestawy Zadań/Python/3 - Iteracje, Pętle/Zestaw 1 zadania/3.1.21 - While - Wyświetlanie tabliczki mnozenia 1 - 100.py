@@ -4,9 +4,9 @@
 
 i = 1
 
-while i <= 10:
+while i <= 100:
     j = 1
-    while j <= 10:
+    while j <= 100:
         print(i*j, end="\t")
         j += 1
     print("\n")

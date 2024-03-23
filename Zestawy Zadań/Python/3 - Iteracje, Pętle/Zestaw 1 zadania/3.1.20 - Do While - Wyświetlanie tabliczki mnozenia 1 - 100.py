@@ -8,11 +8,11 @@ while True:
     while True:
         print(i * j, end="\t")
         j += 1
-        if j > 10:
+        if j > 100:
             break
     print()
     i += 1
-    if i > 10:
+    if i > 100:
         break
 
 
