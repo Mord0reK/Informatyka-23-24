@@ -18,7 +18,7 @@ while True:
         for i in range(0,liczbaprob):
             print(proby[i], end=" ")
         break
-    elif liczbaprob == 10:
+    elif liczbaprob == 100:
         print("Game Over Christopher")
         break
     else:

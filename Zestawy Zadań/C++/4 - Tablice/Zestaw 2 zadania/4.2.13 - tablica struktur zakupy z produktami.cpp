@@ -15,7 +15,7 @@ int main()
 {
     produkt tab[10];
     float sumaprod = 0;
-    for (int i = 0; i < 2; i++)
+    for (int i = 0; i < 10; i++)
     {
         cout << "Podaj nazwe produktu: ";
         cin >> tab[i].nazwa;

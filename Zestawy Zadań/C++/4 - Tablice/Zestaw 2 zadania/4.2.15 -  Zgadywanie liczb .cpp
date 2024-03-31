@@ -33,7 +33,7 @@ int main()
                 cout << proby[i] << " ";
             }
         }
-        else if (liczbaprob == 10)
+        else if (liczbaprob == 100)
         {
             cout << "Game Over christopher" << endl;
             cout << "Wylosowana liczba: " << L << endl;
