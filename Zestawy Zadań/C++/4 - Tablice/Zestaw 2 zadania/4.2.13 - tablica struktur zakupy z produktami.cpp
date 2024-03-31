@@ -15,7 +15,7 @@ int main()
 {
     produkt tab[10];
     float sumaprod = 0;
-    for (int i = 0; i < 10; i++)
+    for (int i = 0; i < 2; i++)
     {
         cout << "Podaj nazwe produktu: ";
         cin >> tab[i].nazwa;
@@ -25,9 +25,9 @@ int main()
         cin >> tab[i].lsztuk;
         sumaprod += tab[i].cena * tab[i].lsztuk;
     }
+    cout << "Nazwa:" << "\t" << "\t" << "Cena: " << "\t" << "\t" << "Ilosc sztuk: " << endl;
     for (int i = 0; i < 10; i++)
     {
-        cout << "Nazwa:" << "\t" << "\t" << "Cena: " << "\t" << "\t" << "Ilosc sztuk: " << endl;
         cout << tab[i].nazwa << "\t" << "\t" << tab[i].cena << "\t" << "\t" << tab[i].lsztuk << endl;
     }
     cout << "Kosz calego zakupu: " << sumaprod << endl;
