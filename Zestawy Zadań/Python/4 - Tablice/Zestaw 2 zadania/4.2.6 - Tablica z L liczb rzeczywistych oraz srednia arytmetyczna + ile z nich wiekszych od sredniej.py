@@ -12,7 +12,7 @@ for i in range(0, przedzial):
 srednia = sum(tab) / przedzial
 
 for i in range(0, przedzial):
-    if srednia < tab[i]:
+    if srednia > tab[i]:
         licznik += 1
 
 print("Średnia arytmetyczna liczb z tablicy: ", srednia)
