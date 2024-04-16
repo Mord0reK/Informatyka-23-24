@@ -1,1 +1,22 @@
-// Napisz program, który wyœwietla du¿e litery alfabetu od A do Z i od Z do A, z// wykorzystaniem pêtli do .. while.#include <iostream>using namespace std;int main() {    char x = 65, y = 90;    do    {        cout << x << " ";        x++;    } while (x <= 90);    cout << endl;    do    {        cout << y << " ";        y--;    } while (y >= 65);    return 0;}
+// Napisz program, ktÃ³ry wyÅ›wietla duÅ¼e litery alfabetu od A do Z i od Z do A, z
+// wykorzystaniem pÄ™tli do .. while.
+
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    char x = 65, y = 90;
+    do
+    {
+        cout << x << " ";
+        x++;
+    } while (x <= 90);
+    cout << endl;
+    do
+    {
+        cout << y << " ";
+        y--;
+    } while (y >= 65);
+    return 0;
+}
