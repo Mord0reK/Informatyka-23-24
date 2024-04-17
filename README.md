@@ -13,7 +13,7 @@ Zestawy zadań: Operacje wyjscia wejscia, instrukcje warunkowe
 # 19.03.2024  (19 marca Wtorek)
 **Sito Erastotenesa** (Pierwsze 3 pdfy bez sita atkina Bernsteina) i wszystko co wczesniej, z zadań 1.1 do 1.3
 # 19.04.2024 (19 kwietnia Piątek)
-**Liczby + sito + dzialania w systemach innych niz dziesietny do pierwszego programu z odejmowania**,bez Millera rabina z zadan 1.1 do 1.4
+**Liczby + sito + dzialania w systemach innych niz dziesietny do pierwszego programu z odejmowania**,bez Millera rabina i Fermata z zadan 1.1 do 1.4
 # 24.05.2024 (24 maja Piatek) 
 **Cały algorytm euklidesa**  Wszystko i zbior 1.1 do 1.5
 
