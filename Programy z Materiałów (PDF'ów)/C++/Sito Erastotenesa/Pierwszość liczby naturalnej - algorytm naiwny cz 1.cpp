@@ -5,7 +5,6 @@ using namespace std;
 int main()
 {
 	int g, i, p;
-	bool t = true;
 	cin >> p;
 	g = (unsigned long long)sqrt(p);
 	for (i = 2; i <= g; i++)
