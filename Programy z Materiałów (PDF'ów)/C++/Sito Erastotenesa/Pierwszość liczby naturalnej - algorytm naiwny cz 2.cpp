@@ -7,7 +7,6 @@ typedef unsigned long long ulong;
 int main()
 {
 	ulong g, i, p;
-	bool t = true;
 	cin >> p;
 	if (p > 2)
 	{
