@@ -22,3 +22,6 @@ Kod niektorych z programów został napisany przez AI i może być ciężki do z
 Zadanie 1. Narysuj **schemat blokowy / liste kroków** ....
 
 Zadanie 2,3,4,5 **Któryś z programów** 
+
+# Źródła
+**https://eduinf.waw.pl/inf/index.php**
