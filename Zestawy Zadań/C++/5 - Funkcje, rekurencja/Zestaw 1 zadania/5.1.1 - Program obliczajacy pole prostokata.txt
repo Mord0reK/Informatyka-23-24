@@ -3,15 +3,16 @@
 
 using namespace std;
 
+float a, b;
+
 float pole_prostokata()
 {
-	float a, b;
-	cin >> a >> b;
 	return a * b;
 }
 
 int main()
 {
+	cin >> a >> b;
 	float pole = pole_prostokata();
 	cout << fixed << setprecision(2) << pole << endl;
 	return 0;
