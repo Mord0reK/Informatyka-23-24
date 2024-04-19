@@ -7,7 +7,7 @@ Kod niektorych z programów został napisany przez AI i może być ciężki do z
 
 Kazdy sprawdzian na godzinę 5 zadan jeden obowiązkowy lub dwa z algorytmow, 2 z c++ i 2 z pythona
 
-# 05.03.2024  (5 marca Wtorek) 
+<!-- # 05.03.2024  (5 marca Wtorek) This is commented out. -->
 **Liczby pierwsze i złożone**
 Zestawy zadań: Operacje wyjscia wejscia, instrukcje warunkowe
 # 19.03.2024  (19 marca Wtorek)
