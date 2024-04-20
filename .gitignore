@@ -451,3 +451,7 @@ FodyWeavers.xsd
 *.vcxproj.filters
 
 *.json
+*.exe
+*.ilk
+*.obj
+*.pdb
