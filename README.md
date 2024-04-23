@@ -3,7 +3,7 @@ Tutaj znajdują się programy lub inne projekty z informatyki.
 
 Kod niektorych z programów został napisany przez AI i może być ciężki do zrozumienia. Wszystkie programy zostaly przetestowane.
 
-#Autor tego repozytorium nie odpowiada za nieudane próby ściągania na sprawdzianach lub sytuacjach podobnego typu.
+**Autor tego repozytorium nie odpowiada za nieudane próby ściągania na sprawdzianach lub sytuacjach podobnego typu.**
 # Sprawdziany
 
 <!-- Kazdy sprawdzian na godzinę 5 zadan jeden obowiązkowy lub dwa z algorytmow, 2 z c++ i 2 z pythona -->
