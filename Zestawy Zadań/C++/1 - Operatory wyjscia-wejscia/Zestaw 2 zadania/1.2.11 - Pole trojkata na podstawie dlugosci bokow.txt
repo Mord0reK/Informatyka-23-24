@@ -1,13 +1,11 @@
-//Napisz program, który:
-//a.pobiera od u¿ytkownika trzy liczby rzeczywiste a, b i c – d³ugoœci boków trójk¹ta
-//b.oblicza i wyœwietla pole trójk¹ta.
-//UWAGA : mo¿na zastosowaæ wzór Herona na pole trójk¹ta,
+//Napisz program, ktï¿½ry:
+//a.pobiera od uï¿½ytkownika trzy liczby rzeczywiste a, b i c ï¿½ dï¿½ugoï¿½ci bokï¿½w trï¿½jkï¿½ta
+//b.oblicza i wyï¿½wietla pole trï¿½jkï¿½ta.
+//UWAGA : moï¿½na zastosowaï¿½ wzï¿½r Herona na pole trï¿½jkï¿½ta,
 //gdzie p = 0, 5 * (a + b + c)
 
-#define _USE_MATH_DEFINES
 #include <iostream>
 #include <math.h>
-#include <iomanip>
 
 using namespace std;
 

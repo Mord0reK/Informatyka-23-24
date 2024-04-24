@@ -3,10 +3,8 @@
 //Dla zmiennych x, y, suma, roznica, iloczyn i iloraz należy przyjąć format wyświetlania ich na
 //ekranie z dokładnością dwóch miejsc po kropce.
 
-#define _USE_MATH_DEFINES
 #include <iostream>
 #include <iomanip>
-#include <math.h>
 
 using namespace std;
 

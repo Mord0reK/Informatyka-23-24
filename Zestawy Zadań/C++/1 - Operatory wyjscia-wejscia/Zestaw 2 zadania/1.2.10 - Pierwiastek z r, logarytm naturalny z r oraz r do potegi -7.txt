@@ -2,10 +2,8 @@
 //a.pobiera od użytkownika liczbę rzeczywistą R(zakładamy, że jest dodatnia)
 //b.w kolejnych wierszach wyświetla wartość pierwsiastka z r, lnR, R do -7 oraz R pomnożone przez π
 
-#define _USE_MATH_DEFINES
 #include <iostream>
 #include <math.h>
-#include <iomanip>
 
 using namespace std;
 

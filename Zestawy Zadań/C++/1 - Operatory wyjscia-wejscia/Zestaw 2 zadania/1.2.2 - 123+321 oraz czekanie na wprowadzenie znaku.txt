@@ -4,10 +4,7 @@
 //c. W kolejnym wierszu wyświetla komunikat systemowy i czeka na naciśnięcie dowolnego
 //przycisku (zastosuj pauzę systemową).
 
-#define _USE_MATH_DEFINES
 #include <iostream>
-#include <iomanip>
-#include <math.h>
 #include <conio.h>
 
 using namespace std;

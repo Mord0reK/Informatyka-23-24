@@ -3,11 +3,7 @@
 //kropce.
 
 
-
-
-#define _USE_MATH_DEFINES
 #include <iostream>
-#include <iomanip>
 #include <math.h>
 
 using namespace std;

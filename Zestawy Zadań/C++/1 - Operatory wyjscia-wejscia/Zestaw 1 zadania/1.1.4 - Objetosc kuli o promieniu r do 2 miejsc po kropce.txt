@@ -3,10 +3,8 @@
 //(rzeczywistego). Dla zmiennych r oraz objetosc należy przyjąć format wyświetlania ich na ekranie z
 //dokładnością dwóch miejsc po kropce.
 
-#define _USE_MATH_DEFINES
 #include <iostream>
 #include <iomanip>
-#include <math.h>
 
 using namespace std;
 

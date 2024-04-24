@@ -6,11 +6,7 @@
 //e. W kolejnym wierszu wypisuje tekst „x/y = ”
 //f. W tym samym wierszu wypisuje wynik dzielenia x/y
 
-
-#define _USE_MATH_DEFINES
 #include <iostream>
-#include <iomanip>
-#include <math.h>
 
 using namespace std;
 
