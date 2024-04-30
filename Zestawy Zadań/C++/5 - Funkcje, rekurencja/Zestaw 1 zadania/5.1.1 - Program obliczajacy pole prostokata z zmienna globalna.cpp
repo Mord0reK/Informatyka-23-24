@@ -12,6 +12,7 @@ float pole_prostokata()
 
 int main()
 {
+	cout << "Podaj dlugosci" << endl;
 	cin >> a >> b;
 	float pole = pole_prostokata();
 	cout << fixed << setprecision(2) << pole << endl;
