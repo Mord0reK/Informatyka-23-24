@@ -455,3 +455,4 @@ FodyWeavers.xsd
 *.ilk
 *.obj
 *.pdb
+*.bat
