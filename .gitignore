@@ -456,3 +456,4 @@ FodyWeavers.xsd
 *.obj
 *.pdb
 *.bat
+*.nix
