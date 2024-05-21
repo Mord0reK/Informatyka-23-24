@@ -3,21 +3,12 @@ class wymierna:
         self.licz = licz
         self.mian = mian
 
-def NWD(a,b):
+def NWD(a ,b):
     while b:
-        t = b 
+        t = b
         b = a % b
         a = t
     return a
-
-def dodaj(a, b):
-    c = wymierna(0, 0)
-    nwd1 = NWD(a.mian, b.mian)
-    c.licz = a.licz * (b.mian // nwd1) + b.licz * (a.mian // nwd1)
-    nwd2 = NWD(abs(c.licz), nwd1)
-    c.licz //= nwd2
-    c.mian = (a.mian//nwd1) * (b.mian//nwd2)
-    return c
 
 def pisz(a):
     if a.licz < 0:
@@ -34,9 +25,17 @@ def skroc(a):
     a.mian //= nwd
     return a
 
+def mnoz(a, b):
+    c = wymierna(0, 1)
+    a = skroc(a)
+    b = skroc(b)
+    c.licz = a.licz * b.licz
+    c.mian = a.mian * b.mian
+    return c
+
 a = wymierna(int(input("Podaj licznik a: ")), int(input("Podaj mianownik a: ")))
 b = wymierna(int(input("Podaj licznik b: ")), int(input("Podaj mianownik b: ")))
 
-c = dodaj(a, b)
+c = mnoz(a, b)
 c = skroc(c)
 pisz(c)
