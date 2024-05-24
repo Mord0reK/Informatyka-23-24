@@ -26,4 +26,3 @@ Zadanie 2,3,4,5 **Któryś z programów**
 
 # Źródła
 **https://eduinf.waw.pl/inf/index.php**
-# NIGGER
