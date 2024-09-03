@@ -6,7 +6,7 @@ Kod niektorych z programów został napisany przez AI i może być ciężki do z
 :warning: **Autor tego repozytorium nie odpowiada za próby ściągania na sprawdzianach lub sytuacjach podobnego typu. :warning:**
 # Sprawdziany
 
-** TBA **
+**TBA**
 
 <!-- Kazdy sprawdzian na godzinę 5 zadan jeden obowiązkowy lub dwa z algorytmow, 2 z c++ i 2 z pythona -->
 
