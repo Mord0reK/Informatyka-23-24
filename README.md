@@ -6,15 +6,15 @@ Kod niektorych z programów został napisany przez AI i może być ciężki do z
 :warning: **Autor tego repozytorium nie odpowiada za próby ściągania na sprawdzianach lub sytuacjach podobnego typu. :warning:**
 # Sprawdziany
 
-**TBA**
+TBA
 
-<!-- Kazdy sprawdzian na godzinę 5 zadan jeden obowiązkowy lub dwa z algorytmow, 2 z c++ i 2 z pythona -->
+# Schemat sprawdzianów
 
-# Schemat sprawdzianu
+2 Algorytmy (Lista kroków lub schemat blokowy)
 
-Zadanie 1. Narysuj **schemat blokowy / liste kroków** ....
+2 Różne programy w C++
 
-Zadanie 2,3,4,5 **Któryś z programów** 
+2 Różne programy w Python
 
 # Źródła
 **https://eduinf.waw.pl/inf/index.php**
