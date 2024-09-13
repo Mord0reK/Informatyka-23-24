@@ -3,7 +3,7 @@ Tutaj znajdują się programy lub inne projekty z informatyki.
 
 Kod niektorych z programów został napisany przez AI i może być ciężki do zrozumienia. Wszystkie programy zostaly przetestowane.
 
-:warning: **Autor tego repozytorium nie odpowiada za próby ściągania na sprawdzianach lub sytuacjach podobnego typu. :warning:**
+:warning: **Autor tego repozytorium nie odpowiada za próby ściągania na pracach klasowych. :warning:**
 # Sprawdziany
 
 TBA
